@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f36ca99-2205-479b-8abe-5834f4c54779" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleRESTJsonWEB.iml" afterDir="false" />
+    <list default="true" id="9f36ca99-2205-479b-8abe-5834f4c54779" name="Changes" comment="test for 1 student">
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +62,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656579188063</updated>
-      <workItem from="1656579189451" duration="762000" />
+      <workItem from="1656579189451" duration="2334000" />
     </task>
+    <task id="LOCAL-00001" summary="test for 1 student">
+      <created>1656580131176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656580131176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test for 1 student" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for 1 student" />
   </component>
 </project>
